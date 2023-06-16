@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: false or true validation
+ * main - Determines if a number is positive, negative or zero
  *
  * Return : 0 (success)
 */
