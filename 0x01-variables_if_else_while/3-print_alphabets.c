@@ -12,14 +12,14 @@ int main(void)
 	int m = 65;
 
 	/*print 97 - 122*/
-	while (n <= 122);
+	while (n <= 122)
 	{
 		putchar(n);
 		n++;
 	}
 
 	/*print 65 - 90*/
-	while (m <= 90);
+	while (m <= 90)
 	{
 		putchar(m);
 		m++;
