@@ -2,6 +2,7 @@
 /**
  * _puts_recursion - function like puts();
  * @s: input
+ * _putchar: writes the character s to stdout
  * Return: Always 0 (Success)
 */
 void _puts_recursion(char *s)
